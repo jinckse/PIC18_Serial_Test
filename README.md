@@ -1,6 +1,6 @@
 # PIC18_Serial_Test
 
-Getting Started:
+Getting Started (Windows):
 
 1. Plug in serial module to power on device
 
